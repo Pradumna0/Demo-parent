@@ -1,0 +1,3 @@
+[submodule "Demo-child1"]
+	path = Demo-child1
+	url = https://github.com/Pradumna0/Demo-child1.git
